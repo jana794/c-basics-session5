@@ -1,0 +1,16 @@
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.exe
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.deps.json
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.runtimeconfig.json
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.runtimeconfig.dev.json
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.dll
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\bin\Debug\net11.0\CSharpAssignment.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.AssemblyInfo.cs
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.dll
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\refint\CSharpAssignment.dll
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.pdb
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAssignment.genruntimeconfig.cache
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\ref\CSharpAssignment.dll
+C:\Users\LAPTOP\OneDrive\Desktop\session 5\CSharpAssignment\obj\Debug\net11.0\CSharpAs.D564BBBE.Up2Date
